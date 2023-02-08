@@ -1,0 +1,60 @@
+{
+   "profileChanges" : [
+      {
+         
+         "attributeName" : "locker_slots_data",
+         "attributeValue" : {
+            "slots" : {
+               "Backpack" : {
+                  "activeVariants" : [
+                     {
+                        "variants" : []
+                     }
+                  ],
+                  "items" : [""]
+               },
+               "Character" : {
+					        "activeVariants": [{
+						        "variants": []
+				    	}],
+                  "items" : [""]
+               },
+               "Dance" : {
+                  "items" : ["", "", "", "", "", ""]
+               },
+               "Glider" : {
+                  "items" : [""]
+               },
+               "ItemWrap" : {
+                  "activeVariants" : [ "", "", "", "", "", "", "" ],
+                  "items" : [ "", "", "", "", "", "", "" ]
+               },
+               "LoadingScreen" : {
+                  "activeVariants" : [],
+                  "items" : [""]
+               },
+               "MusicPack" : {
+                  "activeVariants" : [],
+                  "items" : [""]
+               },
+               "Pickaxe" : {
+                  "activeVariants" : [],
+                  "items" : [""]
+               },
+               "SkyDiveContrail" : {
+                  "activeVariants" : [],
+                  "items" : [""]
+               }
+            }
+         },
+         "changeType" : "itemAttrChanged",
+         "itemId" : "loadout1"
+      }
+   ],
+   "profileChangesBaseRevision" : 6889,
+   "profileCommandRevision" : 2619,
+   "profileId" : "athena",
+   "profileRevision" : 6889,
+   "responseVersion" : 1,
+   "serverTime" : "now"
+}

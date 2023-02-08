@@ -1,0 +1,42 @@
+ {
+	"contentType": "collection",
+	"contentId": "motd-default-collection",
+	"tcId": "cca20b46-eb7d-4852-94b9-8479ddb53b2d",
+	"contentItems": [
+		{
+			"contentType": "content-item",
+			"contentId": "753b2fed-a492-4e11-a34f-9741cc739d47",
+			"tcId": "9b89584d-0711-4269-980d-09d50d04f857",
+			"contentFields": {
+				"body": "Discord Server - https://discord.gg/fndev",
+				"entryType": "Text",
+				"image": [
+					{
+						"width": 1920,
+						"height": 1080,
+						"url": "https://media.discordapp.net/attachments/955135383765647400/1072235410224320563/a_4daf02e2d27fa4de582aac1a81db7a5b_1.png"
+					},
+					{
+						"width": 960,
+						"height": 540,
+						"url": "https://media.discordapp.net/attachments/955135383765647400/1072235410224320563/a_4daf02e2d27fa4de582aac1a81db7a5b_1.png"
+					}
+				],
+				"tabTitleOverride": "Atomic Hybrid Server",
+				"tileImage": [
+					{
+						"width": 1024,
+						"height": 512,
+						"url": "https://media.discordapp.net/attachments/955135383765647400/1072235410224320563/a_4daf02e2d27fa4de582aac1a81db7a5b_1.png"
+					}
+				],
+				"title": "Atomic Hybrid Server",
+				"videoAutoplay": false,
+				"videoLoop": false,
+				"videoMute": false,
+				"videoStreamingEnabled": false
+			},
+			"contentSchemaName": "MotdTextNewsWithVideo"
+		}
+	]
+}
